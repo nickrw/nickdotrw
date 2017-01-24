@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/nickrw
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nick.rw
+  * I am nickrw (https://keybase.io/nickrw) on keybase.
+  * I have a public key with fingerprint B4D5 7034 97E0 96A6 EEA8  4CDE DE30 8C8E E20F B087
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010189fe4b43a118edca7e15029217467b4623d6ef396e8500a81f8d36b849fd26870a",
+            "fingerprint": "b4d5703497e096a6eea84cdede308c8ee20fb087",
+            "host": "keybase.io",
+            "key_id": "de308c8ee20fb087",
+            "kid": "010189fe4b43a118edca7e15029217467b4623d6ef396e8500a81f8d36b849fd26870a",
+            "uid": "fececd47687d3c9a5a8253903216b100",
+            "username": "nickrw"
+        },
+        "service": {
+            "hostname": "nick.rw",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1485261434,
+    "expire_in": 157680000,
+    "prev": "a251e5eb1ed2e2f4d528237d266ad4b686b17c4d71c526893d162b717c59762e",
+    "seqno": 19,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owGtUm1QVFUYXraM2XUaYJimIlO5Q0O5G97vj82FkjE+ptnCjYYdgeV+nAs38C7s
+LrtLGzEpAakTAg6FkvnFxIQRiEqhjVlMVkY5rjLhSBqyCIIhVApKTOcyNdOPfnb+
+nDnPeZ7nPO973p0P3qfTR/yM7nhnJKqrNuLshKDLqc1sCiKCS6pALEGkGCxtoEQC
+Hq+zWJEQC4JiKMZyMiAFkuAxjAWSyDMAo1CcwzGGpBmBpHFCooFMcDRgKRTlWUxm
+JYIWWJKTJZxmGZRHzIisqIXAXepWVC+0FUiJYlCC5BiAcjRPA8CzpCgBCRAoK7IA
+4KgsoCwDhUUuj6aA4QTeA5IUF8TgwbkU7z/4/3Pu8iU7GYhAlEgGohIhcjzFszhF
+cCiBY7SAoahG9AC3ym8GkK0qYrHbj1SaEYj5FBFobdXq+Nd9EiSYkVK3y+sSXSUQ
+LPJ6Sz0WTeStKNVYfiA4/9Y7BUWVYAOhwgfcHsWlIhYMMkWvohliJEvhNEYSpBkB
+gVLFDZyKxqBgXhQu7R3gg5Y8TmGAAgIGJBzgG2X4CziLEwwsl+YlUqBZWA0jkhKD
+idCR5QgJo3GBgRjFMTQOEK2kMtUFzTkYlC+Eph6lUOW95W6AVBrf1q+4Xxeh1z2w
+TK/Nls5oiP5n4Mh3o3UNd7aV6+kLmUPvp1fOGwN7rl70TYQz4mtWcuO/IteUTTPs
+6QR72kNPJ7ycV1aUte6g49lLn/XZ1qa0ZSSL9UM11ecKMhLjUjI/XcFXYs25bdR2
+2+09AduGWap6TeOtgz0vPmGbdN9N0rdkkltPfDfneOnugc7QfNO3xS0tVfdihx3X
+Zk7RrammrumiRnfT5s+tv+f592dHjjwp0+3bza0tfc931VlvdLzyltoxeSX0Tc6b
+uSHOUGjqNCfm09Om/QvkkHXxTkxU1ePh3ld7B3OV9udcqU4uYNoX11kda99S3TDn
+uBDs1636Ylf82LoPLpeNnow+lWhK012ym+0oYnJO1jYwm+4NfxltsI01PnwUseoH
+mtuyT/5UGLClrh77rXh2Z35/1ViXddHV1w2Svt4Wk//awOi5s2dqbpPxC3ubU2yW
+NENJXayhJ33VrbmF62vSr2cfCl8MnrdliAl1/ivGX0IxU3/mPXP4xzNRPbsH29cf
+mRkeOHA88ub0huX15wf7d4Qes/jisiLTqMFDBaM54R/Gh7e0gu7DW9uIxiRfTOx7
+s50Tx1rGU2zysfrjH463JiffiGTfmD29CzfWfj+gHMluvdn7wschx8BwxfT6mtDs
+4NR818qvlu9e+1Rtd8fRoXBu1tVww+VHZ/7Yt3rjMusnwROxBSNVdsW4uFd9feoR
++SO/0PcX
+=Cdrv
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nickrw
+
+==================================================================
+
