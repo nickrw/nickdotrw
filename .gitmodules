@@ -1,0 +1,4 @@
+[submodule "hugo/themes/hugo-goa"]
+	path = hugo/themes/hugo-goa
+	url = git@github.com:nickrw/hugo-goa.git
+	branch = master

@@ -1,0 +1,51 @@
+## Basic Configuration
+
+baseurl = "https://nick.rw/"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-GB"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Nicholas Robinson-Wall"
+title = "Nicholas Robinson-Wall"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Nicholas Robinson-Wall"
+intro = "Systems Administrator & Engineer // London"
+description = "Currently working for [Osper](https://osper.com/), previously [Mendeley](https://mendeley.com/)"
+authorimage = "headshot.jpg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Nicholas Robinson-Wall's professional profile"
+keywords = "linux,sysadmin,systems,administrator,devops,cv,resunme"
+
+## Social Accounts
+[params.social]
+github = "nickrw"
+linkedin = "robinsonwall"
+keybase = "nickrw"
+email = "cv@nick.rw"
+
+## Extras
+[params.extra]
+copyright = "© 2017. Nicholas Robinson-Wall. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+poweredby = false
+hightlightjs = true
+
+## Main Menu
+[[menu.main]]
+    name = "CV"
+    weight = 100
+    identifier = "cv"
+    url = "/cv-pdfs/nickrw_cv_201701.pdf"
