@@ -1,0 +1,9 @@
+<footer class="row text-center footer">
+  <hr />
+  {{ with .Site.Params.extra }}
+  <h6 class="text-center copyright">{{ .copyright | markdownify }}</h6>
+  {{ if ne .poweredby false }}
+  <h6 class="text-center powered">This site is generated from <a href="https://github.com/nickrw/nickdotrw/tree/master/hugo">Hugo templates</a> &amp; Deployed onto infrastructure managed by <a href="https://github.com/nickrw/nickdotrw/tree/master/terraform">Terraform</a>.</h6>
+  {{ end }}
+  {{ end }}
+</footer>

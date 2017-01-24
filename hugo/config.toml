@@ -40,7 +40,7 @@ email = "cv@nick.rw"
 ## Extras
 [params.extra]
 copyright = "© 2017. Nicholas Robinson-Wall. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
-poweredby = false
+poweredby = true
 hightlightjs = true
 
 ## Main Menu
