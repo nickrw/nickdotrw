@@ -4,16 +4,16 @@ variable "nickrw_site_bucket" {
 
 resource "aws_s3_bucket" "nickrw_access_logs" {
   bucket = "nickrw-access-logs"
-  acl = "private"
+  acl    = "private"
 }
 
 resource "aws_s3_bucket" "nickrw_site" {
   bucket = "${var.nickrw_site_bucket}"
-  acl = "private"
+  acl    = "private"
   policy = "${data.aws_iam_policy_document.s3_nickrw_site.json}"
 }
 
-resource "aws_cloudfront_origin_access_identity" "nickrw_site" { }
+resource "aws_cloudfront_origin_access_identity" "nickrw_site" {}
 
 data "aws_iam_policy_document" "s3_nickrw_site" {
   statement {

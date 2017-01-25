@@ -41,17 +41,17 @@ resource "aws_cloudfront_distribution" "nickrw_site" {
   }
 
   custom_error_response {
-    error_code = 404
-    response_code = 404
+    error_code         = 404
+    response_code      = 404
     response_page_path = "/404.html"
   }
 
   price_class = "PriceClass_100"
 
   viewer_certificate {
-    acm_certificate_arn = "${data.aws_acm_certificate.nickrw_us_east_1.arn}"
+    acm_certificate_arn      = "${data.aws_acm_certificate.nickrw_us_east_1.arn}"
     minimum_protocol_version = "TLSv1"
-    ssl_support_method = "sni-only"
+    ssl_support_method       = "sni-only"
   }
 
   restrictions {
@@ -59,5 +59,4 @@ resource "aws_cloudfront_distribution" "nickrw_site" {
       restriction_type = "none"
     }
   }
-
 }
