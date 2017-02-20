@@ -42,10 +42,3 @@ email = "cv@nick.rw"
 copyright = "© 2017. Nicholas Robinson-Wall. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
 poweredby = true
 hightlightjs = true
-
-## Main Menu
-[[menu.main]]
-    name = "CV"
-    weight = 100
-    identifier = "cv"
-    url = "/cv-pdfs/nickrw_cv_201701.pdf"
