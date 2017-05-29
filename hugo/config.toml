@@ -20,15 +20,15 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Nicholas Robinson-Wall"
-intro = "Systems Administrator & Engineer // London"
-description = "Currently working for [Osper](https://osper.com/), previously [Mendeley](https://mendeley.com/)"
+intro = "Backend & Infrastructure Engineer // London"
+description = "Building a bank @ [Monzo](https://monzo.com/). Previously [Osper](https://osper.com/), [Mendeley](https://mendeley.com/)"
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
 [params.meta]
 description = "Nicholas Robinson-Wall's professional profile"
-keywords = "linux,sysadmin,systems,administrator,devops,cv,resunme"
+keywords = "linux,sysadmin,systems,administrator,backend,engineer,golang,go,python,devops,cv,resunme"
 
 ## Social Accounts
 [params.social]
