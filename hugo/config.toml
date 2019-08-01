@@ -20,7 +20,7 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Nicholas Robinson-Wall"
-intro = "Backend & Infrastructure Engineer // London"
+intro = "Payments Engineer // London"
 description = "Building a bank @ [Monzo](https://monzo.com/). Previously [Osper](https://osper.com/), [Mendeley](https://mendeley.com/)"
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
