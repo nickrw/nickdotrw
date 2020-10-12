@@ -28,7 +28,7 @@ dateformat = "Jan 2, 2006"
 ## Site Meta Settings
 [params.meta]
 description = "Nicholas Robinson-Wall's professional profile"
-keywords = "linux,sysadmin,systems,administrator,backend,engineer,golang,go,python,devops,cv,resunme"
+keywords = "linux,sysadmin,systems,administrator,backend,engineer,golang,go,python,devops,cv,resume"
 
 ## Social Accounts
 [params.social]
@@ -40,6 +40,13 @@ twitter = "nickrw"
 
 ## Extras
 [params.extra]
-copyright = "© 2017. Nicholas Robinson-Wall. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+copyright = "© 2020. Nicholas Robinson-Wall. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
 poweredby = true
 hightlightjs = true
+
+## Main Menu
+[[menu.main]]
+    name = "CV"
+    weight = 100
+    identifier = "cv"
+    url = "/cv-pdfs/nicholas-robinson-wall-cv-202010.pdf"
