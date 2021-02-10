@@ -21,7 +21,7 @@ enableRobotsTXT = true
 [params]
 author = "Nicholas Robinson-Wall"
 intro = "Distributed Systems Engineer // London"
-description = "Building a bank @ [Monzo](https://monzo.com/). Previously [Osper](https://osper.com/), [Mendeley](https://mendeley.com/)"
+description = "Finding things @ [Twitter](https://twitter.com/). Previously [Monzo](https://monzo.com/), [Osper](https://osper.com/), [Mendeley](https://mendeley.com/)"
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 
